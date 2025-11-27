@@ -1,5 +1,4 @@
-# Movies-Cinema-KMP
-**This project includes a simple setup for configuring Ktor**<br>
+# This project includes a simple setup for configuring Ktor
 Free APIs from<br>
 https://developer.themoviedb.org/docs/getting-started<br>
 
