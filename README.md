@@ -2,4 +2,4 @@
 Free APIs from<br>
 https://developer.themoviedb.org/docs/getting-started<br>
 
-<img src="screenshot_2.png" width="900">
+<img src="screenshot_3.png" width="900">
